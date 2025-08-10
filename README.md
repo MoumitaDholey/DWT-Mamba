@@ -3,4 +3,4 @@ A spatially-aware deep learning architecture designed for robust medical image c
 
 The source code for the proposed framework will be released upon acceptance of the manuscript to facilitate reproducibility and further research.
 
-We thank the authors of MedMamba for their open-source codes.
+We thank the authors of MedMamba and MedMNIST for their open-source codes.
