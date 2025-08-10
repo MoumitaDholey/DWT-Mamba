@@ -1,0 +1,13 @@
+RetinaSsmSE - Best Metrics:
+ACC: 0.5500
+AUC: 0.7766
+PREC: 0.3682
+REC: 0.3917
+F1: 0.3762
+
+RetinaSsmSE - Best Confusion Matrix:
+[[42,  4,  5,  3,  0],
+ [ 3,  5,  4,  0,  0],
+ [ 6,  5, 13,  4,  0],
+ [ 6,  4,  4,  6,  0],
+ [ 1,  0,  2,  3,  0]]

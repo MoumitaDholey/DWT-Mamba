@@ -1,0 +1,10 @@
+PneumoniaNoSE - Best Metrics:
+ACC: 0.9599
+AUC: 0.9958
+PREC: 0.9360
+REC: 0.9658
+F1: 0.9494
+
+PneumoniaNoSE - Best Confusion Matrix:
+[[132,   3],
+ [ 18, 371]]

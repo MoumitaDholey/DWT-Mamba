@@ -1,0 +1,13 @@
+RetinaNoDWT - Best Metrics:
+ACC: 0.5083
+AUC: 0.7041
+PREC: 0.1675
+REC: 0.2452
+F1: 0.1990
+
+RetinaNoDWT - Best Confusion Matrix:
+[[45,  0,  9,  0,  0],
+ [ 6,  0,  6,  0,  0],
+ [17,  0, 11,  0,  0],
+ [ 9,  0, 11,  0,  0],
+ [ 3,  0,  3,  0,  0]]

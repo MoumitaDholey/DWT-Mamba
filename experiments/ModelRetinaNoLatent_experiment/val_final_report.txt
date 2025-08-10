@@ -1,0 +1,13 @@
+RetinaNoLatent - Best Metrics:
+ACC: 0.5250
+AUC: 0.7081
+PREC: 0.1459
+REC: 0.2367
+F1: 0.1804
+
+RetinaNoLatent - Best Confusion Matrix:
+[[45,  0,  0,  9,  0],
+ [ 8,  0,  0,  4,  0],
+ [16,  0,  0, 12,  0],
+ [13,  0,  0,  7,  0],
+ [ 3,  0,  0,  3,  0]]

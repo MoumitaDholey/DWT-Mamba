@@ -1,0 +1,10 @@
+PneumoniaNoLatent - Best Metrics:
+ACC: 0.9408
+AUC: 0.9971
+PREC: 0.9066
+REC: 0.9602
+F1: 0.9278
+
+PneumoniaNoLatent - Best Confusion Matrix:
+[[135,   0],
+ [ 31, 358]]

@@ -1,0 +1,2 @@
+acc,auc_macro,prec_macro,rec_macro,f1_macro,prec_class_0,prec_class_1,prec_class_2,prec_class_3,prec_class_4,rec_class_0,rec_class_1,rec_class_2,rec_class_3,rec_class_4,f1_class_0,f1_class_1,f1_class_2,f1_class_3,f1_class_4,auc_class_0,auc_class_1,auc_class_2,auc_class_3,auc_class_4
+0.435,0.6447826866102282,0.087,0.2,0.12125435540069687,0.435,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.6062717770034843,0.0,0.0,0.0,0.0,0.7369291018207711,0.5967207074428886,0.6272233201581028,0.7335666194188519,0.5294736842105263

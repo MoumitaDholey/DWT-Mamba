@@ -1,0 +1,3 @@
+Confusion Matrix (rows: True, cols: Predicted)
+87 15
+27 202

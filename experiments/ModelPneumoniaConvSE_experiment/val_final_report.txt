@@ -1,0 +1,10 @@
+PneumoniaConvSE - Best Metrics:
+ACC: 0.9542
+AUC: 0.9950
+PREC: 0.8590
+REC: 0.9319
+F1: 0.8814
+
+PneumoniaConvSE - Best Confusion Matrix:
+[[135,   0],
+ [ 53, 336]]

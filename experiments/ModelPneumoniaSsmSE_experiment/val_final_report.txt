@@ -1,0 +1,10 @@
+PneumoniaSsmSE - Best Metrics:
+ACC: 0.9466
+AUC: 0.9961
+PREC: 0.9148
+REC: 0.9616
+F1: 0.9341
+
+PneumoniaSsmSE - Best Confusion Matrix:
+[[134,   1],
+ [ 27, 362]]

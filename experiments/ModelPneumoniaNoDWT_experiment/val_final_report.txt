@@ -1,0 +1,10 @@
+PneumoniaNoDWT - Best Metrics:
+ACC: 0.9561
+AUC: 0.9970
+PREC: 0.9302
+REC: 0.9632
+F1: 0.9448
+
+PneumoniaNoDWT - Best Confusion Matrix:
+[[132,   3],
+ [ 20, 369]]

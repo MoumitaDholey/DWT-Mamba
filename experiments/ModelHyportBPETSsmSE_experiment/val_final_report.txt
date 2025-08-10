@@ -1,0 +1,10 @@
+HyportBPETSsmSE - Best Metrics:
+ACC: 0.8993
+AUC: 0.8864
+PREC: 0.8946
+REC: 0.6772
+F1: 0.7275
+
+HyportBPETSsmSE - Best Confusion Matrix:
+[[  71,  125],
+ [   8, 1017]]
